@@ -1,0 +1,8 @@
+{
+    "name": "smeedijzer/smeedijzer-extend-permalinks",
+    "description": "Adds options for base rewrites.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.4"
+    }
+}
