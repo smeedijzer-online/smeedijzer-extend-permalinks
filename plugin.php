@@ -111,5 +111,3 @@ class Smeedijzer__Permalink__Extend {
 }
 
 new Smeedijzer__Permalink__Extend();
-
-?>
